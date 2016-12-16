@@ -1,1 +1,1 @@
-# rankin-starting
+# rankin-starting.github.io
